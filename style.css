@@ -1,0 +1,213 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.navbar{
+    padding: 0;
+}
+
+.nav-link{
+    font-size: 13px;
+    color: white;
+}
+.navbar-dark .navbar-nav .nav-link {
+   color: white;
+}
+.bg-dark {
+    background-color: black!important;
+}
+.bg-bird{
+    background-image: url("banner.jpg");
+    min-height: 750px;
+    background-size: cover top ;
+    background-repeat: no-repeat;
+    background-position: center top;
+
+}
+.infobg{
+    padding-top: 20%;
+}
+
+.infobg>img{
+    width: 102px;
+    height: 150px;
+    opacity: 0.5;
+}
+.infobg>h1{
+    font-weight: 700;
+    font-size: 55px;
+    color: white;
+    letter-spacing: 27px;
+}
+.infobg>p{
+    color: #ffffff59;
+    font-size: smaller;
+    letter-spacing: 2px;
+}
+.intro{
+   width: 100%;
+    height: auto;
+}
+
+.branding{
+    background-color: lightgray;
+
+
+}
+.p-5{
+    margin: 30px;
+}
+
+.p-5>*{
+    padding: 2px;
+
+}
+.col-lg-6 {
+    padding: 0;
+}
+
+/*nextpart*/
+
+.chess{
+    width: 347px;
+    height: 173px;
+
+}
+
+
+.chess>*{
+    padding: 6px;
+    text-align: left;
+
+}
+
+.row1>div{
+    display: inline-block;
+}
+.container-fluid{
+    margin: 0;
+}
+.row{
+   margin: 0;
+}
+
+.iconhand{
+    font-size: 30px;
+    padding-bottom: 20px;
+ color: salmon;
+
+}
+/*nextpart  */
+
+.container-fluid {
+    width: 100%;
+    padding-right: 0;
+    padding-left: 0; }
+.itemsone{
+    padding-top: 40px;
+}
+
+.col-md-2,.col-md-3,.col-sm-6,.col-xs-12 ,.col-lg-6,.col-md-12,.col-sm-12{
+    margin: 0;
+    padding: 0;
+}
+
+.correct{
+    width: 100%;
+}
+/*next*/
+.digital>div{
+    padding: 30px;
+}
+.digital{
+    margin-left: 90px;
+    margin-right: 30px;
+    margin-top: 30px;
+}
+
+/*next*/
+
+.sizeowner{
+    width: 179px;
+    height: 200px;
+}
+.ownerinfo{
+    font-size: 15px;
+  margin-top: 60px;
+
+
+}
+.ownerinfo>h3{
+    font-size: 20px;
+    padding-top: 5px;
+    font-weight: 600;
+}
+.ownerinfo>h6{
+    font-size: 12px;
+}
+
+.ownerinfo>i{
+    border: solid 1px black;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 8px;
+margin: 5px;
+    padding: 4px;
+
+}
+
+.ownercenter{
+  margin-right: 120px;
+    margin-left: 120px;
+
+}
+/*next*/
+
+.quotation>h2{
+    font-size: 20px;
+    font-weight:bold;
+}
+.quotation>*{
+    padding: 20px;
+}
+.quotation>button{
+
+    height: 42px;
+    width: 200px;
+    padding-top: 10px;
+    color: aliceblue;
+    background-color: #55efc4;
+    border: none;
+
+}
+
+/*next*/
+
+
+.footer {
+    margin-top: 30px;
+    background-color:#1e272e;
+    padding: 50px;
+}
+
+.footer>*{
+    font-size: 13px;
+    color: gray;
+
+}
+
+.end-h4{
+    font-size: 14px;
+    color: white;
+
+}
+
+.footer>div{
+    margin-top: 30px;
+}
+
+
+
+
